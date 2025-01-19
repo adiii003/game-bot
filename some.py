@@ -20,15 +20,6 @@ st.set_page_config(page_title="Game Chatbot", page_icon="🎮", layout="wide")
 
 st.markdown("""
     <style>
-        .stTextInput>div>div>input {
-            font-size: 20px;  /* Adjust the font size here */
-            padding: 10px;
-        }
-    </style>
-""", unsafe_allow_html=True)
-
-st.markdown("""
-    <style>
         .stTextInput>label {
             font-size: 24px;  /* Adjust the font size here */
             font-weight: bold;
@@ -39,7 +30,7 @@ st.markdown("""
 st.markdown("""
     <style>
         .custom-header {
-            font-size: 30px;  /* Change the font size here */
+            font-size: 35px;  /* Change the font size here */
             font-weight: bold;
             color: #333333;
         }
