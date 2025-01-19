@@ -5,7 +5,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
 # MongoDB Details (Replace with your actual connection details)
-mongodb+srv://sinhaaa:piyushgungun@cluster0.lrab5.mongodb.net/games_db?retryWrites=true&w=majority
+MONGO_URI = "mongodb+srv://sinhaaa:piyushgungun@cluster0.lrab5.mongodb.net/games_db?retryWrites=true&w=majority"
 
 DB_NAME = "games_db"
 COLLECTION_NAME = "games"
