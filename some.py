@@ -5,7 +5,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
 # MongoDB Details (Replace with your actual connection details)
-MONGO_URI = "mongodb://localhost:27017"  # Update with your MongoDB URI
+MONGO_URI = "mongodb+srv://sinhaaa:piyushgungun@cluster0.lrab5.mongodb.net/"  # Update with your MongoDB URI
 DB_NAME = "games_db"
 COLLECTION_NAME = "games"
 
