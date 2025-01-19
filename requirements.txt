@@ -17,5 +17,5 @@ fastapi
 uvicorn
 langserve[all]
 mysql-connector-python
-
+pymongo
 
