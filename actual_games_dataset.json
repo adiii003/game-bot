@@ -1,0 +1,2023 @@
+[
+    {
+        "game_id": "elden_ring_2022",
+        "name": "Elden Ring",
+        "genre": [
+            "Action RPG"
+        ],
+        "rules": "Explore the open world, defeat enemies, and uncover the mysteries of the Elden Ring. Players must manage health and stamina during combat.",
+        "how_to_play": "Engage in challenging combat with melee weapons, magic, and stealth. Explore vast landscapes, solve puzzles, and upgrade your character.",
+        "accessible_via": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X/S"
+        ],
+        "additional_information": {
+            "developer": "FromSoftware",
+            "publisher": "Bandai Namco",
+            "release_date": "2022-02-25",
+            "multiplayer": true,
+            "notable_features": "Seamless open-world exploration and deep lore."
+        }
+    },
+    {
+        "game_id": "minecraft_2011",
+        "name": "Minecraft",
+        "genre": [
+            "Sandbox",
+            "Survival"
+        ],
+        "rules": "Gather resources, craft items, and survive against environmental dangers. Creative mode allows unlimited building.",
+        "how_to_play": "Use tools to mine blocks, build structures, and craft items. Survive by avoiding or defeating hostile creatures.",
+        "accessible_via": [
+            "PC",
+            "Mobile",
+            "PS4",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2011-11-18",
+            "multiplayer": true,
+            "notable_features": "Infinite worlds and a vast modding community."
+        }
+    },
+    {
+        "game_id": "among_us_2018",
+        "name": "Among Us",
+        "genre": [
+            "Social Deduction"
+        ],
+        "rules": "Crewmates complete tasks while identifying impostors. Impostors sabotage tasks and eliminate crewmates without getting caught.",
+        "how_to_play": "Participate in discussions to vote off suspects. Complete objectives or deceive others to win.",
+        "accessible_via": [
+            "PC",
+            "Mobile",
+            "Nintendo Switch",
+            "PS4",
+            "Xbox One"
+        ],
+        "additional_information": {
+            "developer": "Innersloth",
+            "release_date": "2018-06-15",
+            "multiplayer": true,
+            "notable_features": "Cross-platform play and customizable gameplay settings."
+        }
+    },
+    {
+        "game_id": "fortnite_2017",
+        "name": "Fortnite",
+        "genre": [
+            "Battle Royale",
+            "Shooter"
+        ],
+        "rules": "Eliminate all opponents and be the last person or team standing. Stay within the safe zone as the storm closes in.",
+        "how_to_play": "Collect weapons, resources, and build structures for defense or mobility. Engage in combat with other players.",
+        "accessible_via": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Nintendo Switch",
+            "Mobile"
+        ],
+        "additional_information": {
+            "developer": "Epic Games",
+            "release_date": "2017-09-26",
+            "multiplayer": true,
+            "notable_features": "Building mechanics and regular content updates."
+        }
+    },
+    {
+        "game_id": "chess_classic",
+        "name": "Chess",
+        "genre": [
+            "Board Game",
+            "Strategy"
+        ],
+        "rules": "Each piece moves in specific ways. The objective is to checkmate the opponent's king while protecting your own.",
+        "how_to_play": "Plan moves strategically, anticipate the opponent's actions, and capture pieces to control the board.",
+        "accessible_via": [
+            "Physical Board",
+            "PC",
+            "Mobile"
+        ],
+        "additional_information": {
+            "origin": "Ancient India",
+            "notable_features": "Timeless strategy game with millions of players worldwide."
+        }
+    },
+    {
+        "game_id": "game_006",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "genre": [
+            "Action-Adventure"
+        ],
+        "rules": "The objective of The Legend of Zelda: Breath of the Wild is to solve puzzles, defeat enemies, and uncover the story of hyrule.",
+        "how_to_play": "Solve puzzles, defeat enemies, and uncover the story of Hyrule.",
+        "accessible_via": "Nintendo Switch",
+        "additional_information": {
+            "multiplayer": true,
+            "notable_features": "Popular Action-Adventure game with engaging gameplay."
+        }
+    },
+    {
+        "game_id": "game_007",
+        "name": "Call of Duty: Warzone",
+        "genre": [
+            "Battle Royale",
+            "Shooter"
+        ],
+        "rules": "The objective of Call of Duty: Warzone is to engage in large-scale battles, collect gear, and survive in a shrinking map.",
+        "how_to_play": "Engage in large-scale battles, collect gear, and survive in a shrinking map.",
+        "accessible_via": [
+            "PC",
+            "PS4",
+            "Xbox One"
+        ],
+        "additional_information": {
+            "multiplayer": true,
+            "notable_features": "Popular Battle Royale game with engaging gameplay."
+        }
+    },
+    {
+        "game_id": "game_008",
+        "name": "Overwatch",
+        "genre": [
+            "Hero Shooter"
+        ],
+        "rules": "The objective of Overwatch is to team-based shooter with unique heroes and objectives.",
+        "how_to_play": "Team-based shooter with unique heroes and objectives.",
+        "accessible_via": [
+            "PC",
+            "PS4",
+            "Xbox One"
+        ],
+        "additional_information": {
+            "multiplayer": true,
+            "notable_features": "Popular Hero Shooter game with engaging gameplay."
+        }
+    },
+    {
+        "game_id": "game_009",
+        "name": "League of Legends",
+        "genre": [
+            "MOBA"
+        ],
+        "rules": "The objective of League of Legends is to strategize with a team to destroy the enemy's nexus.",
+        "how_to_play": "Strategize with a team to destroy the enemy's nexus.",
+        "accessible_via": [
+            "PC"
+        ],
+        "additional_information": {
+            "multiplayer": true,
+            "notable_features": "Popular MOBA game with engaging gameplay."
+        }
+    },
+    {
+        "game_id": "game_010",
+        "name": "Valorant",
+        "genre": [
+            "Tactical Shooter"
+        ],
+        "rules": "The objective of Valorant is to plant or defuse the spike while eliminating opponents in a 5v5 format.",
+        "how_to_play": "Plant or defuse the spike while eliminating opponents in a 5v5 format.",
+        "accessible_via": [
+            "PC"
+        ],
+        "additional_information": {
+            "multiplayer": true,
+            "notable_features": "Popular Tactical Shooter game with engaging gameplay."
+        }
+    },
+    {
+        "game_id": "game_006",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "genre": ["Action-Adventure"],
+        "rules": "Explore the open world, solve puzzles, defeat enemies, and uncover the story of Hyrule. Manage resources and stamina effectively.",
+        "how_to_play": "Play as Link and explore vast landscapes, solve puzzles, combat enemies, and unlock hidden secrets.",
+        "accessible_via": ["Nintendo Switch", "Wii U"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2017-03-03",
+            "multiplayer": "No",
+            "notable_features": "Open-world exploration, physics-based gameplay, and a rich story."
+        }
+    },
+    {
+        "game_id": "game_007",
+        "name": "Dark Souls III",
+        "genre": ["Action RPG"],
+        "rules": "Defeat challenging enemies and bosses while managing stamina and timing. Death resets progress to the last bonfire.",
+        "how_to_play": "Explore dark, interconnected worlds, engage in tactical combat, and upgrade weapons and stats.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "FromSoftware",
+            "release_date": "2016-03-24",
+            "multiplayer": "Yes",
+            "notable_features": "Challenging difficulty and deep lore."
+        }
+    },
+    {
+        "game_id": "game_008",
+        "name": "Animal Crossing: New Horizons",
+        "genre": ["Simulation"],
+        "rules": "Build and customize your island, interact with villagers, and participate in seasonal events.",
+        "how_to_play": "Collect resources, design your island, and build relationships with villagers.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2020-03-20",
+            "multiplayer": "Yes",
+            "notable_features": "Relaxing gameplay and real-time progression."
+        }
+    },
+    {
+        "game_id": "game_009",
+        "name": "Cyberpunk 2077",
+        "genre": ["Action RPG"],
+        "rules": "Explore Night City, complete missions, and make choices that affect the story.",
+        "how_to_play": "Customize your character, engage in combat, and explore a futuristic open world.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2020-12-10",
+            "multiplayer": "No",
+            "notable_features": "Immersive storytelling and a detailed world."
+        }
+    },
+    {
+        "game_id": "game_010",
+        "name": "Rocket League",
+        "genre": ["Sports", "Action"],
+        "rules": "Score goals by driving a car and hitting a giant soccer ball into the opposing team's goal.",
+        "how_to_play": "Control cars, perform aerial maneuvers, and score goals in this high-paced sports game.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Psyonix",
+            "release_date": "2015-07-07",
+            "multiplayer": "Yes",
+            "notable_features": "Unique blend of soccer and vehicle gameplay."
+        }
+    },
+    {
+        "game_id": "game_011",
+        "name": "Stardew Valley",
+        "genre": ["Simulation", "RPG"],
+        "rules": "Grow crops, raise animals, build relationships, and restore your grandfather's farm.",
+        "how_to_play": "Manage your farm, explore caves, and engage with the community of Pelican Town.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "ConcernedApe",
+            "release_date": "2016-02-26",
+            "multiplayer": "Yes",
+            "notable_features": "Relaxing gameplay with farming, crafting, and exploration."
+        }
+    },
+    {
+        "game_id": "game_012",
+        "name": "Portal 2",
+        "genre": ["Puzzle", "Adventure"],
+        "rules": "Solve puzzles using the portal gun and navigate the Aperture Science facility.",
+        "how_to_play": "Create portals to move through space and solve physics-based puzzles.",
+        "accessible_via": ["PC", "PS3", "Xbox 360"],
+        "additional_information": {
+            "developer": "Valve",
+            "release_date": "2011-04-19",
+            "multiplayer": "Yes",
+            "notable_features": "Innovative gameplay and humorous storytelling."
+        }
+    },
+    {
+        "game_id": "game_013",
+        "name": "Hollow Knight",
+        "genre": ["Metroidvania", "Adventure"],
+        "rules": "Explore Hallownest, defeat bosses, and uncover secrets in this atmospheric world.",
+        "how_to_play": "Navigate interconnected levels, engage in challenging combat, and collect abilities.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Team Cherry",
+            "release_date": "2017-02-24",
+            "multiplayer": "No",
+            "notable_features": "Atmospheric world and intricate level design."
+        }
+    },
+    {
+        "game_id": "game_014",
+        "name": "Fall Guys: Ultimate Knockout",
+        "genre": ["Battle Royale", "Party"],
+        "rules": "Compete in obstacle courses and survive elimination to win the crown.",
+        "how_to_play": "Navigate through wacky challenges and avoid falling off the course.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mediatonic",
+            "release_date": "2020-08-04",
+            "multiplayer": "Yes",
+            "notable_features": "Fun, colorful battle royale with unique mini-games."
+        }
+    },
+    {
+        "game_id": "game_015",
+        "name": "Apex Legends",
+        "genre": ["Battle Royale", "Shooter"],
+        "rules": "Survive and eliminate other squads to become the last team standing.",
+        "how_to_play": "Choose unique characters, work with your team, and use abilities strategically in a fast-paced battle royale.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Respawn Entertainment",
+            "release_date": "2019-02-04",
+            "multiplayer": "Yes",
+            "notable_features": "Team-based battle royale with unique character abilities."
+        }
+    },
+    {
+        "game_id": "game_016",
+        "name": "Among Us",
+        "genre": ["Social Deduction", "Multiplayer"],
+        "rules": "Complete tasks as a crewmate or sabotage and eliminate crewmates as an impostor without being caught.",
+        "how_to_play": "Work with other players to complete tasks or deceive others as an impostor. Use deduction and strategy to win.",
+        "accessible_via": ["PC", "Mobile", "Nintendo Switch", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Innersloth",
+            "release_date": "2018-06-15",
+            "multiplayer": "Yes",
+            "notable_features": "Engaging multiplayer gameplay with social deduction mechanics."
+        }
+    },
+    {
+        "game_id": "game_017",
+        "name": "Minecraft",
+        "genre": ["Sandbox", "Survival"],
+        "rules": "Mine resources, craft items, and survive against enemies while building and exploring the world.",
+        "how_to_play": "Collect resources, build structures, and explore infinite worlds. Play in survival or creative modes.",
+        "accessible_via": ["PC", "Mobile", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2011-11-18",
+            "multiplayer": "Yes",
+            "notable_features": "Endless creativity with building, exploration, and survival gameplay."
+        }
+    },
+    {
+        "game_id": "game_018",
+        "name": "The Elder Scrolls V: Skyrim",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Complete quests, defeat enemies, and shape your story in the land of Skyrim.",
+        "how_to_play": "Explore a vast open world, engage in combat, and make choices that affect the story.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Bethesda Game Studios",
+            "release_date": "2011-11-11",
+            "multiplayer": "No",
+            "notable_features": "Immersive world with deep lore and modding support."
+        }
+    },
+    {
+        "game_id": "game_019",
+        "name": "Fortnite",
+        "genre": ["Battle Royale", "Shooter"],
+        "rules": "Survive and eliminate opponents in a shrinking arena to become the last player or team standing.",
+        "how_to_play": "Drop onto the map, gather weapons and resources, and fight against other players.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "Epic Games",
+            "release_date": "2017-07-21",
+            "multiplayer": "Yes",
+            "notable_features": "Unique building mechanics and frequent updates with new content."
+        }
+    },
+    {
+        "game_id": "game_020",
+        "name": "Terraria",
+        "genre": ["Sandbox", "Adventure"],
+        "rules": "Explore, mine resources, craft items, and defeat bosses while building your world.",
+        "how_to_play": "Dig, build, and fight in a 2D pixel-art world with procedurally generated environments.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "Re-Logic",
+            "release_date": "2011-05-16",
+            "multiplayer": "Yes",
+            "notable_features": "Extensive crafting and exploration with a retro aesthetic."
+        }
+    },
+    {
+        "game_id": "game_021",
+        "name": "Hades",
+        "genre": ["Roguelike", "Action"],
+        "rules": "Battle through the Underworld and defeat enemies to escape as the prince of the dead.",
+        "how_to_play": "Use weapons and abilities to fight enemies in procedurally generated levels while uncovering the story.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Supergiant Games",
+            "release_date": "2020-09-17",
+            "multiplayer": "No",
+            "notable_features": "Fast-paced action with a compelling narrative and beautiful art style."
+        }
+    },
+    {
+        "game_id": "game_022",
+        "name": "League of Legends",
+        "genre": ["MOBA"],
+        "rules": "Defeat the enemy team's Nexus by working with your team to control lanes and destroy defenses.",
+        "how_to_play": "Choose a champion, farm minions, and coordinate with your team to secure objectives and win battles.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Riot Games",
+            "release_date": "2009-10-27",
+            "multiplayer": "Yes",
+            "notable_features": "Extensive roster of champions and competitive gameplay."
+        }
+    },
+    {
+        "game_id": "game_023",
+        "name": "Overwatch 2",
+        "genre": ["Hero Shooter", "Action"],
+        "rules": "Complete objectives and defeat the enemy team using a hero with unique abilities.",
+        "how_to_play": "Work with your team, choose a hero, and use teamwork and strategy to win matches.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Blizzard Entertainment",
+            "release_date": "2022-10-04",
+            "multiplayer": "Yes",
+            "notable_features": "Team-based gameplay with unique character abilities."
+        }
+    },
+    {
+        "game_id": "game_024",
+        "name": "Valorant",
+        "genre": ["Shooter", "Tactical"],
+        "rules": "Plant or defuse the spike and win rounds by eliminating the enemy team or completing objectives.",
+        "how_to_play": "Choose an agent, utilize their abilities, and engage in tactical combat with precision shooting.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Riot Games",
+            "release_date": "2020-06-02",
+            "multiplayer": "Yes",
+            "notable_features": "Tactical shooting with unique agent abilities."
+        }
+    },
+    {
+        "game_id": "game_025",
+        "name": "Splatoon 3",
+        "genre": ["Shooter", "Action"],
+        "rules": "Cover the arena with your team's ink and defeat opponents to secure victory.",
+        "how_to_play": "Use ink-based weapons to paint the arena and splat opponents in colorful team-based battles.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2022-09-09",
+            "multiplayer": "Yes",
+            "notable_features": "Unique ink-based mechanics with vibrant visuals."
+        }
+    },
+    {
+        "game_id": "game_026",
+        "name": "Red Dead Redemption 2",
+        "genre": ["Action-Adventure", "Open World"],
+        "rules": "Complete story missions and explore the open world to uncover the rich narrative and gameplay elements.",
+        "how_to_play": "Play as Arthur Morgan, engage in gunfights, manage resources, and explore the vast Wild West.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "PS5", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Rockstar Games",
+            "release_date": "2018-10-26",
+            "multiplayer": "Yes (Red Dead Online)",
+            "notable_features": "Immersive open-world gameplay and a compelling narrative."
+        }
+    },
+    {
+        "game_id": "game_027",
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Complete quests, slay monsters, and make choices that influence the storyline.",
+        "how_to_play": "Play as Geralt of Rivia, explore the vast world, engage in combat, and use Witcher abilities.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2015-05-19",
+            "multiplayer": "No",
+            "notable_features": "Deep storytelling and intricate character development."
+        }
+    },
+    {
+        "game_id": "game_028",
+        "name": "Super Smash Bros. Ultimate",
+        "genre": ["Fighting", "Party"],
+        "rules": "Knock your opponents off the stage while managing damage and special attacks.",
+        "how_to_play": "Choose a character and compete in fast-paced, chaotic battles with up to 8 players.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2018-12-07",
+            "multiplayer": "Yes",
+            "notable_features": "Massive roster of characters and competitive multiplayer."
+        }
+    },
+    {
+        "game_id": "game_029",
+        "name": "Assassin's Creed Valhalla",
+        "genre": ["Action RPG", "Adventure"],
+        "rules": "Explore the open world, complete missions, and engage in combat as a Viking raider.",
+        "how_to_play": "Play as Eivor, conquer settlements, fight enemies, and shape your destiny in England.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Ubisoft",
+            "release_date": "2020-11-10",
+            "multiplayer": "No",
+            "notable_features": "Rich historical settings and engaging open-world gameplay."
+        }
+    },
+    {
+        "game_id": "game_030",
+        "name": "Call of Duty: Modern Warfare II (2022)",
+        "genre": ["Shooter", "Action"],
+        "rules": "Complete campaign missions or engage in multiplayer modes to eliminate opponents.",
+        "how_to_play": "Play as elite soldiers in various campaigns, or compete in fast-paced multiplayer modes.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Infinity Ward",
+            "release_date": "2022-10-28",
+            "multiplayer": "Yes",
+            "notable_features": "Realistic combat and a variety of multiplayer options."
+        }
+    },
+    {
+        "game_id": "game_031",
+        "name": "FIFA 23",
+        "genre": ["Sports", "Simulation"],
+        "rules": "Control a soccer team and score goals to win matches against the opposing team.",
+        "how_to_play": "Choose a team, manage players, and compete in matches using realistic soccer mechanics.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "EA Sports",
+            "release_date": "2022-09-30",
+            "multiplayer": "Yes",
+            "notable_features": "HyperMotion technology and realistic gameplay."
+        }
+    },
+    {
+        "game_id": "game_032",
+        "name": "Horizon Forbidden West",
+        "genre": ["Action RPG", "Adventure"],
+        "rules": "Explore an open world, defeat robotic enemies, and uncover the mysteries of a post-apocalyptic Earth.",
+        "how_to_play": "Play as Aloy, use weapons and traps, and complete quests in a visually stunning world.",
+        "accessible_via": ["PS4", "PS5"],
+        "additional_information": {
+            "developer": "Guerrilla Games",
+            "release_date": "2022-02-18",
+            "multiplayer": "No",
+            "notable_features": "Detailed world-building and engaging story."
+        }
+    },
+    {
+        "game_id": "game_033",
+        "name": "Pokémon Legends: Arceus",
+        "genre": ["RPG", "Adventure"],
+        "rules": "Capture Pokémon, complete tasks for the Pokédex, and explore the Hisui region.",
+        "how_to_play": "Explore an open world, catch Pokémon using stealth and strategy, and complete objectives.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Game Freak",
+            "release_date": "2022-01-28",
+            "multiplayer": "No",
+            "notable_features": "Open-world Pokémon gameplay with an emphasis on exploration."
+        }
+    },
+    {
+        "game_id": "game_034",
+        "name": "Dead by Daylight",
+        "genre": ["Horror", "Multiplayer"],
+        "rules": "Survivors must escape the map while avoiding being captured by the killer.",
+        "how_to_play": "Play as a survivor working with others to escape or as a killer trying to hunt them down.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Behaviour Interactive",
+            "release_date": "2016-06-14",
+            "multiplayer": "Yes",
+            "notable_features": "Unique asymmetrical gameplay with a horror theme."
+        }
+    },
+    {
+        "game_id": "game_035",
+        "name": "Elden Ring",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Explore a vast world, defeat enemies and bosses, and uncover the lore of the Lands Between.",
+        "how_to_play": "Play as a customizable character, engage in challenging combat, and explore interconnected areas.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "FromSoftware",
+            "release_date": "2022-02-25",
+            "multiplayer": "Yes",
+            "notable_features": "Open-world design and intense boss battles."
+        }
+    },
+    {
+        "game_id": "game_036",
+        "name": "Starfield",
+        "genre": ["Action RPG", "Open World", "Space Exploration"],
+        "rules": "Explore space, complete missions, and uncover mysteries in a vast, open-world galaxy.",
+        "how_to_play": "Travel to different planets, engage in space combat, mine resources, and build outposts.",
+        "accessible_via": ["PC", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Bethesda Game Studios",
+            "release_date": "2023-09-06",
+            "multiplayer": "No",
+            "notable_features": "Customizable spaceships and expansive exploration."
+        }
+    },
+    {
+        "game_id": "game_037",
+        "name": "Cyberpunk 2077",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Complete missions, make story-altering decisions, and upgrade your character in a cyberpunk world.",
+        "how_to_play": "Play as V, a customizable mercenary, and navigate Night City through combat and exploration.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2020-12-10",
+            "multiplayer": "No",
+            "notable_features": "Immersive narrative and highly detailed open-world environments."
+        }
+    },
+    {
+        "game_id": "game_038",
+        "name": "Genshin Impact",
+        "genre": ["Action RPG", "Adventure"],
+        "rules": "Complete quests, explore the open world, and unlock characters to build your team.",
+        "how_to_play": "Play as a Traveler, explore the world of Teyvat, solve puzzles, and fight using elemental abilities.",
+        "accessible_via": ["PC", "PS4", "PS5", "Mobile"],
+        "additional_information": {
+            "developer": "miHoYo",
+            "release_date": "2020-09-28",
+            "multiplayer": "Yes",
+            "notable_features": "Gacha-based character collection and cross-platform play."
+        }
+    },
+    {
+        "game_id": "game_039",
+        "name": "Dark Souls III",
+        "genre": ["Action RPG", "Fantasy"],
+        "rules": "Explore a dark fantasy world, defeat challenging enemies and bosses, and uncover the story through exploration.",
+        "how_to_play": "Fight enemies with precise combat mechanics, collect souls, and upgrade your character.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "FromSoftware",
+            "release_date": "2016-03-24",
+            "multiplayer": "Yes",
+            "notable_features": "Intense difficulty and atmospheric world design."
+        }
+    },
+    {
+        "game_id": "game_040",
+        "name": "Subnautica",
+        "genre": ["Survival", "Adventure"],
+        "rules": "Survive underwater by collecting resources, building equipment, and avoiding hostile creatures.",
+        "how_to_play": "Explore an alien ocean, gather resources, craft tools, and uncover the planet's mysteries.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Unknown Worlds Entertainment",
+            "release_date": "2018-01-23",
+            "multiplayer": "No",
+            "notable_features": "Immersive underwater environments and survival gameplay."
+        }
+    },
+    {
+        "game_id": "game_041",
+        "name": "Apex Legends",
+        "genre": ["Battle Royale", "Shooter"],
+        "rules": "Compete in squads to be the last team standing in a dynamic arena with unique characters.",
+        "how_to_play": "Choose a Legend with unique abilities, gather loot, and fight against other squads.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Respawn Entertainment",
+            "release_date": "2019-02-04",
+            "multiplayer": "Yes",
+            "notable_features": "Hero-based mechanics and fast-paced gameplay."
+        }
+    },
+    {
+        "game_id": "game_042",
+        "name": "Halo Infinite",
+        "genre": ["Shooter", "Sci-Fi"],
+        "rules": "Complete the campaign missions or compete in multiplayer modes to dominate the battlefield.",
+        "how_to_play": "Play as Master Chief or engage in multiplayer battles with futuristic weapons and vehicles.",
+        "accessible_via": ["PC", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "343 Industries",
+            "release_date": "2021-12-08",
+            "multiplayer": "Yes",
+            "notable_features": "Iconic Halo mechanics with a modern twist."
+        }
+    },
+    {
+        "game_id": "game_043",
+        "name": "Stardew Valley",
+        "genre": ["Simulation", "RPG"],
+        "rules": "Grow crops, raise animals, and build relationships in the peaceful town of Stardew Valley.",
+        "how_to_play": "Farm, fish, mine, and interact with townspeople to build a thriving farm.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "ConcernedApe",
+            "release_date": "2016-02-26",
+            "multiplayer": "Yes",
+            "notable_features": "Relaxing gameplay with endless customization options."
+        }
+    },
+    {
+        "game_id": "game_044",
+        "name": "Rocket League",
+        "genre": ["Sports", "Action"],
+        "rules": "Control rocket-powered cars to score goals in a high-octane soccer game.",
+        "how_to_play": "Drive your car, boost, and hit the ball into the opponent's goal to score points.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Psyonix",
+            "release_date": "2015-07-07",
+            "multiplayer": "Yes",
+            "notable_features": "Unique blend of sports and vehicular gameplay."
+        }
+    },
+    {
+        "game_id": "game_045",
+        "name": "Animal Crossing: New Horizons",
+        "genre": ["Simulation", "Life"],
+        "rules": "Build your own island paradise by crafting, decorating, and making friends with villagers.",
+        "how_to_play": "Manage your island, gather resources, and customize your environment while interacting with NPCs.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2020-03-20",
+            "multiplayer": "Yes",
+            "notable_features": "Relaxing gameplay with an emphasis on creativity and social interactions."
+        }
+    },
+    {
+        "game_id": "game_046",
+        "name": "Monster Hunter: World",
+        "genre": ["Action RPG", "Adventure"],
+        "rules": "Hunt massive monsters in an expansive world to collect resources and upgrade equipment.",
+        "how_to_play": "Track and hunt down powerful monsters, craft new weapons and armor from their parts.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Capcom",
+            "release_date": "2018-01-26",
+            "multiplayer": "Yes",
+            "notable_features": "Dynamic combat and detailed monster ecology."
+        }
+    },
+    {
+        "game_id": "game_047",
+        "name": "Tom Clancy's The Division 2",
+        "genre": ["Third-Person Shooter", "Action"],
+        "rules": "Fight for survival in a post-apocalyptic world, using tactical combat and co-op gameplay.",
+        "how_to_play": "Join a Division agent to restore order, complete missions, and fight off enemy factions.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Massive Entertainment",
+            "release_date": "2019-03-15",
+            "multiplayer": "Yes",
+            "notable_features": "Open-world tactical combat and multiplayer PvE."
+        }
+    },
+    {
+        "game_id": "game_048",
+        "name": "The Elder Scrolls V: Skyrim",
+        "genre": ["Action RPG", "Fantasy"],
+        "rules": "Complete quests, fight dragons, and explore the open world of Skyrim as the Dragonborn.",
+        "how_to_play": "Choose your class, engage in combat, cast spells, and complete story and side missions.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Bethesda Game Studios",
+            "release_date": "2011-11-11",
+            "multiplayer": "No",
+            "notable_features": "Extensive world-building and player freedom."
+        }
+    },
+    {
+        "game_id": "game_049",
+        "name": "Overwatch",
+        "genre": ["First-Person Shooter", "Team-based"],
+        "rules": "Engage in team-based combat using heroes with unique abilities to capture objectives.",
+        "how_to_play": "Select from a roster of heroes with unique skills and abilities, and work with your team to secure victory.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Blizzard Entertainment",
+            "release_date": "2016-05-24",
+            "multiplayer": "Yes",
+            "notable_features": "Hero-based gameplay and team coordination."
+        }
+    },
+    {
+        "game_id": "game_050",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "genre": ["Action RPG", "Adventure"],
+        "rules": "Explore a vast world, solve puzzles, defeat enemies, and discover the secrets of Hyrule.",
+        "how_to_play": "Play as Link, explore the world of Hyrule, solve puzzles, and battle enemies in an open world.",
+        "accessible_via": ["Nintendo Switch", "Wii U"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2017-03-03",
+            "multiplayer": "No",
+            "notable_features": "Open-world exploration with puzzle-solving elements."
+        }
+    },
+    {
+        "game_id": "game_051",
+        "name": "Minecraft",
+        "genre": ["Sandbox", "Survival"],
+        "rules": "Mine resources, craft tools, and survive in a procedurally generated world.",
+        "how_to_play": "Gather resources, build structures, and explore vast worlds in creative or survival mode.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2011-11-18",
+            "multiplayer": "Yes",
+            "notable_features": "Endless creativity and cooperative gameplay."
+        }
+    },
+    {
+        "game_id": "game_052",
+        "name": "Fortnite",
+        "genre": ["Battle Royale", "Shooter"],
+        "rules": "Compete to be the last player standing by scavenging for resources and eliminating other players.",
+        "how_to_play": "Collect weapons, build structures, and fight to be the last survivor in a shrinking map.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "Epic Games",
+            "release_date": "2017-07-25",
+            "multiplayer": "Yes",
+            "notable_features": "Free-to-play model with frequent updates and events."
+        }
+    },
+    {
+        "game_id": "game_053",
+        "name": "League of Legends",
+        "genre": ["MOBA", "Strategy"],
+        "rules": "Control a champion in a team-based battle to destroy the enemy's Nexus while defending your own.",
+        "how_to_play": "Work with your team to destroy turrets, fight enemies, and destroy the Nexus to win.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Riot Games",
+            "release_date": "2009-10-27",
+            "multiplayer": "Yes",
+            "notable_features": "Deep tactical gameplay and a wide range of champions."
+        }
+    },
+    {
+        "game_id": "game_054",
+        "name": "Fall Guys: Ultimate Knockout",
+        "genre": ["Battle Royale", "Party"],
+        "rules": "Compete in a series of mini-games and obstacle courses to be the last player standing.",
+        "how_to_play": "Navigate through obstacle courses, avoid elimination, and compete for the crown in a battle royale setting.",
+        "accessible_via": ["PC", "PS4", "PS5", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mediatonic",
+            "release_date": "2020-08-04",
+            "multiplayer": "Yes",
+            "notable_features": "Fun and chaotic mini-games in a colorful world."
+        }
+    },
+    {
+        "game_id": "game_055",
+        "name": "Resident Evil Village",
+        "genre": ["Survival Horror", "Action"],
+        "rules": "Fight off terrifying creatures and unravel the mystery surrounding the village.",
+        "how_to_play": "Play as Ethan Winters, use various weapons, solve puzzles, and survive against monstrous foes.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Capcom",
+            "release_date": "2021-05-07",
+            "multiplayer": "No",
+            "notable_features": "First-person perspective and intense horror elements."
+        }
+    },
+    {
+        "game_id": "game_056",
+        "name": "Control",
+        "genre": ["Action-Adventure", "Shooter"],
+        "rules": "Explore a mysterious government building while using telekinetic powers to defeat enemies.",
+        "how_to_play": "Use telekinesis and firearms to solve puzzles and fight against hostile forces in the Federal Bureau of Control.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Remedy Entertainment",
+            "release_date": "2019-08-27",
+            "multiplayer": "No",
+            "notable_features": "Surreal, psychological story and physics-based combat."
+        }
+    },
+    {
+        "game_id": "game_057",
+        "name": "Hitman 3",
+        "genre": ["Stealth", "Action"],
+        "rules": "Assassinate targets using stealth, strategy, and a variety of tools in sandbox-style levels.",
+        "how_to_play": "Use stealth to eliminate high-profile targets, complete objectives, and avoid detection.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "IO Interactive",
+            "release_date": "2021-01-20",
+            "multiplayer": "No",
+            "notable_features": "Sandbox levels and multiple ways to complete objectives."
+        }
+    },
+    {
+        "game_id": "game_058",
+        "name": "Valorant",
+        "genre": ["Shooter", "Tactical"],
+        "rules": "Compete in 5v5 tactical team-based matches, planting or defusing bombs, and eliminating the enemy team.",
+        "how_to_play": "Choose a unique agent with abilities, work with your team to complete objectives, and eliminate the enemy team.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Riot Games",
+            "release_date": "2020-06-02",
+            "multiplayer": "Yes",
+            "notable_features": "Tactical shooting and agent-based abilities."
+        }
+    },
+    {
+        "game_id": "game_059",
+        "name": "Rainbow Six Siege",
+        "genre": ["Shooter", "Tactical"],
+        "rules": "Work with your team to complete tactical missions or protect/attack various objectives.",
+        "how_to_play": "Select an operator with unique abilities and engage in tactical team-based combat.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Ubisoft",
+            "release_date": "2015-12-01",
+            "multiplayer": "Yes",
+            "notable_features": "Team coordination and strategy-based gameplay."
+        }
+    },
+    {
+        "game_id": "game_060",
+        "name": "Tetris 99",
+        "genre": ["Puzzle", "Battle Royale"],
+        "rules": "Play a game of Tetris against 98 other players and be the last one standing.",
+        "how_to_play": "Clear lines of blocks and send garbage lines to your opponents to eliminate them.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2019-02-13",
+            "multiplayer": "Yes",
+            "notable_features": "Competitive, battle royale-style Tetris gameplay."
+        }
+    },
+    {
+        "game_id": "game_061",
+        "name": "Celeste",
+        "genre": ["Platformer", "Indie"],
+        "rules": "Help Madeline climb the mountain while avoiding traps, solving puzzles, and navigating difficult platforms.",
+        "how_to_play": "Jump, climb, and dash through challenging platforming sequences in a beautiful pixel art world.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Maddy Makes Games",
+            "release_date": "2018-01-25",
+            "multiplayer": "No",
+            "notable_features": "Challenging platforming with emotional storytelling."
+        }
+    },
+    {
+        "game_id": "game_062",
+        "name": "Guitar Hero Live",
+        "genre": ["Music", "Rhythm"],
+        "rules": "Play along to music by hitting the right notes at the right time using a guitar controller.",
+        "how_to_play": "Strum and press the fret buttons according to the notes on the screen to play popular rock songs.",
+        "accessible_via": ["PS4", "Xbox One", "Wii U"],
+        "additional_information": {
+            "developer": "Freestyle Games",
+            "release_date": "2015-10-20",
+            "multiplayer": "Yes",
+            "notable_features": "Live concert experience with new guitar controller."
+        }
+    },
+    {
+        "game_id": "game_063",
+        "name": "Star Wars: Battlefront II",
+        "genre": ["Third-Person Shooter", "Action"],
+        "rules": "Fight in the Star Wars universe, either as a member of the Empire, the Rebellion, or the Separatists.",
+        "how_to_play": "Choose your side, battle in various iconic locations, and fight using characters, vehicles, and heroes.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "EA DICE",
+            "release_date": "2017-11-17",
+            "multiplayer": "Yes",
+            "notable_features": "Hero-based gameplay and large-scale battles."
+        }
+    },
+    {
+        "game_id": "game_064",
+        "name": "Hollow Knight",
+        "genre": ["Metroidvania", "Action-Adventure"],
+        "rules": "Explore a vast, interconnected world of caves and ruins, fight enemies, and upgrade abilities.",
+        "how_to_play": "Navigate through an underground world, solve puzzles, and defeat powerful bosses.",
+        "accessible_via": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+        "additional_information": {
+            "developer": "Team Cherry",
+            "release_date": "2017-02-24",
+            "multiplayer": "No",
+            "notable_features": "Meticulously designed world with challenging platforming."
+        }
+    },
+    {
+        "game_id": "game_065",
+        "name": "Red Dead Redemption 2",
+        "genre": ["Action-Adventure", "Western"],
+        "rules": "Live the life of an outlaw in a Western open-world, engage in quests, and survive in the wild.",
+        "how_to_play": "Complete story missions, hunt, rob, and live the life of a cowboy in the late 1800s.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Rockstar Games",
+            "release_date": "2018-10-26",
+            "multiplayer": "Yes",
+            "notable_features": "Immersive open-world with story-driven gameplay."
+        }
+    },
+    {
+        "game_id": "game_066",
+        "name": "FIFA 21",
+        "genre": ["Sports", "Simulation"],
+        "rules": "Play football with real teams and players, manage teams, and compete in various modes.",
+        "how_to_play": "Choose a team, control the players to score goals, and win matches.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "EA Sports",
+            "release_date": "2020-10-09",
+            "multiplayer": "Yes",
+            "notable_features": "Realistic football simulation with team management."
+        }
+    },
+    {
+        "game_id": "game_067",
+        "name": "Cyberpunk 2077",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Explore a dystopian world, complete missions, and customize your character's abilities and story.",
+        "how_to_play": "Take on the role of V, customize your abilities, and navigate the world of Night City.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2020-12-10",
+            "multiplayer": "No",
+            "notable_features": "Expansive open-world with a branching narrative."
+        }
+    },
+    {
+        "game_id": "game_068",
+        "name": "Minecraft Dungeons",
+        "genre": ["Action RPG", "Dungeon Crawler"],
+        "rules": "Enter dungeons, fight monsters, and gather loot in a Minecraft-themed world.",
+        "how_to_play": "Complete quests and defeat enemies using various weapons and armor in randomly generated dungeons.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2020-05-26",
+            "multiplayer": "Yes",
+            "notable_features": "Minecraft-themed dungeon crawling with co-op gameplay."
+        }
+    },
+    {
+        "game_id": "game_069",
+        "name": "Apex Legends",
+        "genre": ["Battle Royale", "Shooter"],
+        "rules": "Fight in teams of three and be the last squad standing in a futuristic, ever-shrinking arena.",
+        "how_to_play": "Choose your Legend, work with your team to survive, and eliminate other squads.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Respawn Entertainment",
+            "release_date": "2019-02-04",
+            "multiplayer": "Yes",
+            "notable_features": "Unique characters (Legends) with special abilities."
+        }
+    },
+    {
+        "game_id": "game_070",
+        "name": "Dead by Daylight",
+        "genre": ["Horror", "Survival"],
+        "rules": "Play as either a survivor or a killer in a horror-themed game of cat and mouse.",
+        "how_to_play": "As a survivor, work with others to escape the killer, or as the killer, hunt down and eliminate survivors.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Behaviour Interactive",
+            "release_date": "2016-06-14",
+            "multiplayer": "Yes",
+            "notable_features": "Asymmetric multiplayer horror experience."
+        }
+    },
+    {
+        "game_id": "game_071",
+        "name": "Among Us",
+        "genre": ["Party", "Social Deduction"],
+        "rules": "Work as a team to complete tasks on a spaceship, while impostors sabotage the crew.",
+        "how_to_play": "Complete tasks and identify the impostors, or deceive others as the impostor to sabotage the mission.",
+        "accessible_via": ["PC", "Mobile", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Innersloth",
+            "release_date": "2018-06-15",
+            "multiplayer": "Yes",
+            "notable_features": "Social deduction and teamwork gameplay."
+        }
+    },
+    {
+        "game_id": "game_072",
+        "name": "Overcooked 2",
+        "genre": ["Party", "Simulation"],
+        "rules": "Cook and serve food in chaotic kitchens with friends or AI.",
+        "how_to_play": "Prepare and serve food while managing obstacles and keeping up with orders in a series of kitchens.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Ghost Town Games",
+            "release_date": "2018-08-07",
+            "multiplayer": "Yes",
+            "notable_features": "Fun, cooperative cooking and multitasking mechanics."
+        }
+    },
+    {
+        "game_id": "game_073",
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": ["Action RPG", "Fantasy"],
+        "rules": "Play as Geralt of Rivia, complete quests, and engage in monster hunting in a vast open-world.",
+        "how_to_play": "Complete main story quests and side missions, engage in combat, and make choices that affect the world.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2015-05-19",
+            "multiplayer": "No",
+            "notable_features": "Rich narrative, deep RPG mechanics, and monster hunting."
+        }
+    },
+    {
+        "game_id": "game_074",
+        "name": "Mortal Kombat 11",
+        "genre": ["Fighting", "Action"],
+        "rules": "Fight against opponents in brutal one-on-one combat with various combos and finishers.",
+        "how_to_play": "Choose your fighter, use special moves and combos, and defeat your opponent in intense battles.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "NetherRealm Studios",
+            "release_date": "2019-04-23",
+            "multiplayer": "Yes",
+            "notable_features": "Violent finishers, and a large roster of fighters."
+        }
+    },
+    {
+        "game_id": "game_075",
+        "name": "Journey",
+        "genre": ["Adventure", "Indie"],
+        "rules": "Explore a desert landscape, solving environmental puzzles and meeting other players online.",
+        "how_to_play": "Navigate the vast desert, solve environmental puzzles, and journey to reach the summit of the mountain.",
+        "accessible_via": ["PS3", "PS4", "PC"],
+        "additional_information": {
+            "developer": "Thatgamecompany",
+            "release_date": "2012-03-13",
+            "multiplayer": "Yes",
+            "notable_features": "Stunning visual art style and cooperative gameplay."
+        }
+    },
+    {
+        "game_id": "game_076",
+        "name": "Call of Duty: Warzone",
+        "genre": ["Battle Royale", "Shooter"],
+        "rules": "Compete in a large-scale battle royale with up to 150 players, either solo or in squads.",
+        "how_to_play": "Gather weapons, fight to stay in the safe zone, and be the last team or player standing.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "Infinity Ward",
+            "release_date": "2020-03-10",
+            "multiplayer": "Yes",
+            "notable_features": "Battle royale and free-to-play model."
+        }
+    },
+    {
+        "game_id": "game_077",
+        "name": "Uncharted 4: A Thief's End",
+        "genre": ["Action-Adventure", "Shooter"],
+        "rules": "Play as Nathan Drake, an adventurer, and uncover the mysteries behind treasure hunting.",
+        "how_to_play": "Climb, shoot, and solve puzzles to uncover treasures while fighting enemies.",
+        "accessible_via": ["PS4"],
+        "additional_information": {
+            "developer": "Naughty Dog",
+            "release_date": "2016-05-10",
+            "multiplayer": "Yes",
+            "notable_features": "Engaging story and cinematic gameplay."
+        }
+    },
+    {
+        "game_id": "game_078",
+        "name": "The Elder Scrolls V: Skyrim",
+        "genre": ["Action RPG", "Fantasy"],
+        "rules": "Explore a massive open-world, complete quests, and fight mythical creatures while gaining powerful abilities.",
+        "how_to_play": "Explore dungeons, upgrade your character, and choose your path in a fantasy world.",
+        "accessible_via": ["PC", "PS3", "PS4", "PS5", "Xbox 360", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Bethesda Game Studios",
+            "release_date": "2011-11-11",
+            "multiplayer": "No",
+            "notable_features": "Expansive world with deep lore and modding support."
+        }
+    },
+    {
+        "game_id": "game_079",
+        "name": "Fortnite",
+        "genre": ["Battle Royale", "Survival"],
+        "rules": "Fight to be the last person or squad standing in a battle royale environment, with building mechanics.",
+        "how_to_play": "Collect materials to build structures while fighting other players to survive.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Mobile"],
+        "additional_information": {
+            "developer": "Epic Games",
+            "release_date": "2017-07-25",
+            "multiplayer": "Yes",
+            "notable_features": "Building mechanics combined with traditional battle royale."
+        }
+    },
+    {
+        "game_id": "game_080",
+        "name": "League of Legends",
+        "genre": ["MOBA", "Strategy"],
+        "rules": "Play as a champion and work with your team to destroy the enemy's Nexus while defending your own.",
+        "how_to_play": "Control champions, strategize with your team, and destroy the enemy’s structures.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Riot Games",
+            "release_date": "2009-10-27",
+            "multiplayer": "Yes",
+            "notable_features": "Free-to-play with strategic team-based gameplay."
+        }
+    },
+    {
+        "game_id": "game_081",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "genre": ["Action-Adventure", "Open World"],
+        "rules": "Explore the kingdom of Hyrule, solve puzzles, and defeat enemies to defeat Calamity Ganon.",
+        "how_to_play": "Complete quests, solve environmental puzzles, and fight monsters in an open-world setting.",
+        "accessible_via": ["Nintendo Switch", "Wii U"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2017-03-03",
+            "multiplayer": "No",
+            "notable_features": "Open-world exploration with physics-based puzzles."
+        }
+    },
+    {
+        "game_id": "game_082",
+        "name": "Animal Crossing: New Horizons",
+        "genre": ["Life Simulation", "Social"],
+        "rules": "Create your own island, design its landscape, and live a peaceful life by interacting with anthropomorphic animals.",
+        "how_to_play": "Fish, catch bugs, and build your island community with animal villagers.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2020-03-20",
+            "multiplayer": "Yes",
+            "notable_features": "Charming social simulation with crafting and farming."
+        }
+    },
+    {
+        "game_id": "game_083",
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": ["Action RPG", "Fantasy"],
+        "rules": "Play as Geralt of Rivia, complete quests, and fight monsters in a vast, detailed world.",
+        "how_to_play": "Take on monster contracts, explore a rich open world, and make impactful choices in a branching story.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2015-05-19",
+            "multiplayer": "No",
+            "notable_features": "Rich narrative with a branching storyline and combat system."
+        }
+    },
+    {
+        "game_id": "game_084",
+        "name": "Rocket League",
+        "genre": ["Sports", "Action"],
+        "rules": "Play soccer with cars, using boost to hit a giant ball and score goals.",
+        "how_to_play": "Control a car with a rocket engine, use the ball to score goals, and compete in matches.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Psyonix",
+            "release_date": "2015-07-07",
+            "multiplayer": "Yes",
+            "notable_features": "Fast-paced vehicular soccer with both local and online multiplayer."
+        }
+    },
+    {
+        "game_id": "game_085",
+        "name": "Fall Guys: Ultimate Knockout",
+        "genre": ["Party", "Battle Royale"],
+        "rules": "Compete in obstacle courses to be the last player standing.",
+        "how_to_play": "Navigate through various courses full of obstacles and avoid being eliminated.",
+        "accessible_via": ["PC", "PS4", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mediatonic",
+            "release_date": "2020-08-04",
+            "multiplayer": "Yes",
+            "notable_features": "Fun party games with random, chaotic physics."
+        }
+    },
+    {
+        "game_id": "game_086",
+        "name": "Minecraft",
+        "genre": ["Sandbox", "Survival"],
+        "rules": "Mine resources, craft items, and build structures in an infinite world.",
+        "how_to_play": "Collect resources, craft tools, and survive by building structures and fighting monsters.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2011-11-18",
+            "multiplayer": "Yes",
+            "notable_features": "Blocky sandbox gameplay with building and crafting."
+        }
+    },
+    {
+        "game_id": "game_087",
+        "name": "Tetris Effect",
+        "genre": ["Puzzle", "Rhythm"],
+        "rules": "Place falling blocks to create full lines and clear the screen.",
+        "how_to_play": "Rotate and place falling blocks to form complete lines, clearing them from the screen.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Monstars Inc.",
+            "release_date": "2018-11-09",
+            "multiplayer": "Yes",
+            "notable_features": "Stunning visuals and music tied to the gameplay experience."
+        }
+    },
+    {
+        "game_id": "game_088",
+        "name": "Doom Eternal",
+        "genre": ["First-Person Shooter", "Action"],
+        "rules": "Kill demons and navigate through hellish landscapes while upgrading weapons and abilities.",
+        "how_to_play": "Run, jump, and shoot your way through levels filled with dangerous enemies and traps.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "id Software",
+            "release_date": "2020-03-20",
+            "multiplayer": "Yes",
+            "notable_features": "Fast-paced combat with a focus on movement and weapon upgrades."
+        }
+    },
+    {
+        "game_id": "game_089",
+        "name": "Ghost of Tsushima",
+        "genre": ["Action-Adventure", "Open World"],
+        "rules": "Play as Jin Sakai, a samurai fighting for his life in feudal Japan against Mongol invaders.",
+        "how_to_play": "Explore a vast open-world, complete missions, and battle enemies using swordplay.",
+        "accessible_via": ["PS4", "PS5"],
+        "additional_information": {
+            "developer": "Sucker Punch Productions",
+            "release_date": "2020-07-17",
+            "multiplayer": "Yes",
+            "notable_features": "Open-world exploration with fluid combat mechanics."
+        }
+    },
+    {
+        "game_id": "game_090",
+        "name": "Hades",
+        "genre": ["Action", "Rogue-like"],
+        "rules": "Escape from the Underworld by fighting enemies, gaining power-ups, and dying repeatedly.",
+        "how_to_play": "Choose a weapon, battle through procedurally generated levels, and defeat bosses.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Supergiant Games",
+            "release_date": "2020-09-17",
+            "multiplayer": "No",
+            "notable_features": "Fast-paced combat and story-driven rogue-like gameplay."
+        }
+    },
+    {
+        "game_id": "game_091",
+        "name": "Bloodborne",
+        "genre": ["Action RPG", "Horror"],
+        "rules": "Explore the gothic city of Yharnam, fight terrifying beasts, and uncover dark secrets.",
+        "how_to_play": "Defeat enemies, explore the world, and upgrade your character while facing nightmarish foes.",
+        "accessible_via": ["PS4"],
+        "additional_information": {
+            "developer": "FromSoftware",
+            "release_date": "2015-03-24",
+            "multiplayer": "No",
+            "notable_features": "Challenging combat and atmospheric horror elements."
+        }
+    },
+    {
+        "game_id": "game_092",
+        "name": "Overwatch",
+        "genre": ["First-Person Shooter", "Team-based"],
+        "rules": "Work with your team to complete objectives while using unique characters with different abilities.",
+        "how_to_play": "Choose a hero, use team-based strategy, and capture points or escort payloads to victory.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Blizzard Entertainment",
+            "release_date": "2016-05-24",
+            "multiplayer": "Yes",
+            "notable_features": "Hero-based shooter with a focus on teamwork and strategy."
+        }
+    },
+    {
+        "game_id": "game_093",
+        "name": "Celeste",
+        "genre": ["Platformer", "Indie"],
+        "rules": "Help Madeline climb the mountain of Celeste while overcoming challenging platforming puzzles.",
+        "how_to_play": "Jump, dash, and solve intricate platforming puzzles as you ascend the mountain.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Maddy Makes Games",
+            "release_date": "2018-01-25",
+            "multiplayer": "No",
+            "notable_features": "Challenging platforming with a strong emotional narrative."
+        }
+    },
+    {
+        "game_id": "game_094",
+        "name": "The Last of Us Part II",
+        "genre": ["Action-Adventure", "Survival"],
+        "rules": "Play as Ellie in a post-apocalyptic world filled with danger and moral dilemmas.",
+        "how_to_play": "Survive by scavenging for supplies, battling enemies, and making tough decisions.",
+        "accessible_via": ["PS4", "PS5"],
+        "additional_information": {
+            "developer": "Naughty Dog",
+            "release_date": "2020-06-19",
+            "multiplayer": "No",
+            "notable_features": "Emotionally intense narrative with stealth-based combat."
+        }
+    },
+    {
+        "game_id": "game_095",
+        "name": "Minecraft Dungeons",
+        "genre": ["Action RPG", "Dungeon Crawler"],
+        "rules": "Explore dungeons, defeat monsters, and collect loot to strengthen your character.",
+        "how_to_play": "Fight through procedurally generated dungeons, collecting gear and leveling up.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2020-05-26",
+            "multiplayer": "Yes",
+            "notable_features": "Minecraft-inspired dungeon crawler with a focus on loot and co-op play."
+        }
+    },
+    {
+        "game_id": "game_096",
+        "name": "Super Smash Bros. Ultimate",
+        "genre": ["Fighting", "Multiplayer"],
+        "rules": "Battle with characters from various franchises to knock opponents off the stage.",
+        "how_to_play": "Choose your character, engage in fast-paced combat, and try to knock your opponents off the arena.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2018-12-07",
+            "multiplayer": "Yes",
+            "notable_features": "All-inclusive roster of fighters from across gaming franchises."
+        }
+    },
+    {
+        "game_id": "game_097",
+        "name": "Hollow Knight",
+        "genre": ["Metroidvania", "Action-Adventure"],
+        "rules": "Explore a vast, interconnected world, fight enemies, and discover secrets in the ruined kingdom of Hallownest.",
+        "how_to_play": "Platform and fight through challenging environments, unlock new abilities to access new areas.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Team Cherry",
+            "release_date": "2017-02-24",
+            "multiplayer": "No",
+            "notable_features": "Fluid platforming and combat with intricate world-building."
+        }
+    },
+    {
+        "game_id": "game_098",
+        "name": "Spelunky 2",
+        "genre": ["Rogue-like", "Platformer"],
+        "rules": "Navigate dangerous caves, avoid traps, and collect treasures while trying to survive.",
+        "how_to_play": "Explore procedurally generated levels, solve puzzles, and defeat enemies to collect rewards.",
+        "accessible_via": ["PC", "PS4", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mossmouth",
+            "release_date": "2020-09-15",
+            "multiplayer": "Yes",
+            "notable_features": "Challenging, randomly generated environments with cooperative multiplayer."
+        }
+    },
+    {
+        "game_id": "game_099",
+        "name": "Nier: Automata",
+        "genre": ["Action RPG", "Hack and Slash"],
+        "rules": "Fight enemies in a post-apocalyptic world as androids, uncover the mystery of humanity's extinction.",
+        "how_to_play": "Engage in fast-paced combat, unlock multiple story endings, and explore a decimated world.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "PlatinumGames",
+            "release_date": "2017-03-17",
+            "multiplayer": "No",
+            "notable_features": "Unique storytelling with combat that blends hack and slash mechanics."
+        }
+    },
+    {
+        "game_id": "game_100",
+        "name": "Stardew Valley",
+        "genre": ["Simulation", "RPG"],
+        "rules": "Create and manage your farm, build relationships with townspeople, and explore the countryside.",
+        "how_to_play": "Plant crops, raise animals, and explore caves to mine resources and defeat monsters.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch", "Mobile"],
+        "additional_information": {
+            "developer": "ConcernedApe",
+            "release_date": "2016-02-26",
+            "multiplayer": "Yes",
+            "notable_features": "Charming farming simulator with social and adventure elements."
+        }
+    },
+    {
+        "game_id": "game_101",
+        "name": "Red Dead Redemption 2",
+        "genre": ["Action-Adventure", "Open World"],
+        "rules": "Explore a massive open-world, engage in shootouts, and live as an outlaw in the wild west.",
+        "how_to_play": "Complete story missions, engage in side activities, and make moral decisions that affect the world.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Rockstar Games",
+            "release_date": "2018-10-26",
+            "multiplayer": "Yes",
+            "notable_features": "Immersive open-world with detailed environments and storyline."
+        }
+    },
+    {
+        "game_id": "game_102",
+        "name": "GTA V",
+        "genre": ["Action-Adventure", "Open World"],
+        "rules": "Live the life of criminals in Los Santos, completing heists and missions while evading the law.",
+        "how_to_play": "Switch between three protagonists, engage in missions, explore the open world, and complete various side activities.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Rockstar Games",
+            "release_date": "2013-09-17",
+            "multiplayer": "Yes",
+            "notable_features": "Multiple protagonists, open world with a focus on both story and freedom."
+        }
+    },
+    {
+        "game_id": "game_103",
+        "name": "World of Warcraft",
+        "genre": ["MMORPG"],
+        "rules": "Create your character, complete quests, and engage in player-vs-environment and player-vs-player battles.",
+        "how_to_play": "Join factions, raid dungeons, fight monsters, and engage in world-changing events in an online world.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Blizzard Entertainment",
+            "release_date": "2004-11-23",
+            "multiplayer": "Yes",
+            "notable_features": "Massive multiplayer world with extensive lore and character progression."
+        }
+    },
+    {
+        "game_id": "game_104",
+        "name": "Sekiro: Shadows Die Twice",
+        "genre": ["Action-Adventure", "Hack and Slash"],
+        "rules": "Play as a skilled samurai who must navigate dangerous lands and defeat formidable enemies.",
+        "how_to_play": "Fight with precision, parry enemy strikes, and solve environmental puzzles to progress.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "FromSoftware",
+            "release_date": "2019-03-22",
+            "multiplayer": "No",
+            "notable_features": "Challenging combat with a focus on timing and precision."
+        }
+    },
+    {
+        "game_id": "game_105",
+        "name": "Final Fantasy XIV",
+        "genre": ["MMORPG", "Fantasy"],
+        "rules": "Create a character, explore the world of Eorzea, and participate in quests and battles.",
+        "how_to_play": "Join a class, complete quests, engage in raids, and develop your character's skills.",
+        "accessible_via": ["PC", "PS4", "PS5"],
+        "additional_information": {
+            "developer": "Square Enix",
+            "release_date": "2013-08-27",
+            "multiplayer": "Yes",
+            "notable_features": "Expansive world with deep storylines, raids, and a rich community."
+        }
+    },
+    {
+        "game_id": "game_106",
+        "name": "The Binding of Isaac",
+        "genre": ["Rogue-like", "Action"],
+        "rules": "Navigate through randomly generated dungeons, fighting enemies and collecting power-ups.",
+        "how_to_play": "Collect items, defeat enemies, and face challenging bosses in a dark, twisted world.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Edmund McMillen",
+            "release_date": "2011-09-28",
+            "multiplayer": "Yes",
+            "notable_features": "Rogue-like gameplay with randomly generated levels and items."
+        }
+    },
+    {
+        "game_id": "game_107",
+        "name": "Borderlands 3",
+        "genre": ["First-Person Shooter", "RPG"],
+        "rules": "Explore the planet Pandora, collect loot, and defeat enemies in a hybrid FPS and RPG world.",
+        "how_to_play": "Complete missions, level up characters, and acquire weapons while shooting and looting.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Gearbox Software",
+            "release_date": "2019-09-13",
+            "multiplayer": "Yes",
+            "notable_features": "RPG elements with comedic writing and intense shooting combat."
+        }
+    },
+    {
+        "game_id": "game_108",
+        "name": "Assassin's Creed Odyssey",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Play as a mercenary in ancient Greece, engage in combat, and explore a vast world.",
+        "how_to_play": "Complete quests, build relationships, and fight in both large-scale battles and personal duels.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Ubisoft",
+            "release_date": "2018-10-05",
+            "multiplayer": "No",
+            "notable_features": "Immersive open-world with deep RPG elements and narrative choices."
+        }
+    },
+    {
+        "game_id": "game_109",
+        "name": "Dark Souls III",
+        "genre": ["Action RPG", "Hack and Slash"],
+        "rules": "Fight through an unforgiving world filled with challenging enemies and bosses.",
+        "how_to_play": "Master combat mechanics, level up, and defeat monstrous bosses to progress.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "FromSoftware",
+            "release_date": "2016-04-12",
+            "multiplayer": "Yes",
+            "notable_features": "Challenging combat with deep lore and rich world-building."
+        }
+    },
+    {
+        "game_id": "game_110",
+        "name": "Celeste",
+        "genre": ["Platformer", "Indie"],
+        "rules": "Help Madeline climb the Celeste Mountain, overcoming challenges and personal trials.",
+        "how_to_play": "Jump, dash, and solve platforming puzzles while exploring the mountain.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Maddy Makes Games",
+            "release_date": "2018-01-25",
+            "multiplayer": "No",
+            "notable_features": "Challenging, precise platforming with a deeply emotional story."
+        }
+    },
+    {
+        "game_id": "game_111",
+        "name": "Minecraft Dungeons",
+        "genre": ["Action RPG", "Dungeon Crawler"],
+        "rules": "Fight through procedurally generated dungeons, collecting loot and fighting enemies.",
+        "how_to_play": "Choose your character, explore dungeons, and level up by defeating monsters.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2020-05-26",
+            "multiplayer": "Yes",
+            "notable_features": "Minecraft-inspired dungeon crawling with loot and teamwork."
+        }
+    },
+    {
+        "game_id": "game_112",
+        "name": "No Man's Sky",
+        "genre": ["Survival", "Space Exploration"],
+        "rules": "Explore planets, mine resources, and build structures while surviving in space.",
+        "how_to_play": "Travel to different planets, collect resources, and build your intergalactic empire.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Hello Games",
+            "release_date": "2016-08-09",
+            "multiplayer": "Yes",
+            "notable_features": "Procedurally generated universe with endless exploration."
+        }
+    },
+    {
+        "game_id": "game_113",
+        "name": "Cyberpunk 2077",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Play as V, a mercenary in a dystopian future, completing missions and making choices that shape the world.",
+        "how_to_play": "Complete missions, explore Night City, and engage in combat or dialogue with NPCs.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2020-12-10",
+            "multiplayer": "No",
+            "notable_features": "A massive, story-driven open-world game with a futuristic setting."
+        }
+    },
+    {
+        "game_id": "game_114",
+        "name": "Journey",
+        "genre": ["Adventure", "Puzzle"],
+        "rules": "Embark on a pilgrimage across vast desert landscapes, solving environmental puzzles along the way.",
+        "how_to_play": "Explore the world, interact with other players, and uncover the game's mysteries.",
+        "accessible_via": ["PS3", "PS4"],
+        "additional_information": {
+            "developer": "Thatgamecompany",
+            "release_date": "2012-03-13",
+            "multiplayer": "Yes",
+            "notable_features": "Emotional storytelling with beautiful, minimalist design."
+        }
+    },
+    {
+        "game_id": "game_115",
+        "name": "Tetris Effect",
+        "genre": ["Puzzle", "Rhythm"],
+        "rules": "Arrange falling blocks to complete lines and prevent the screen from filling up.",
+        "how_to_play": "Rotate and position falling blocks to clear lines and score points.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Monstars",
+            "release_date": "2018-11-09",
+            "multiplayer": "Yes",
+            "notable_features": "Mesmerizing visuals and music with classic Tetris gameplay."
+        }
+    },
+    {
+        "game_id": "game_116",
+        "name": "Hollow Knight",
+        "genre": ["Metroidvania", "Action-Adventure"],
+        "rules": "Explore an underground world filled with monsters and secrets, solving puzzles and battling foes.",
+        "how_to_play": "Upgrade your abilities, defeat bosses, and uncover the mysteries of Hallownest.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Team Cherry",
+            "release_date": "2017-02-24",
+            "multiplayer": "No",
+            "notable_features": "Challenging platforming with intricate world-building."
+        }
+    },
+    {
+        "game_id": "game_117",
+        "name": "FIFA 21",
+        "genre": ["Sports", "Simulation"],
+        "rules": "Compete in football matches, aiming to score goals while defending your team’s goal.",
+        "how_to_play": "Choose your team, pass, shoot, and strategize to win matches against other players or AI.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+        "additional_information": {
+            "developer": "EA Sports",
+            "release_date": "2020-10-09",
+            "multiplayer": "Yes",
+            "notable_features": "Realistic football simulation with updated teams and leagues."
+        }
+    },
+    {
+        "game_id": "game_118",
+        "name": "Call of Duty: Warzone",
+        "genre": ["Battle Royale", "First-Person Shooter"],
+        "rules": "Drop into a massive map, gather weapons and resources, and fight to be the last one standing.",
+        "how_to_play": "Choose your squad, loot for resources, and engage in combat with other players.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Infinity Ward",
+            "release_date": "2020-03-10",
+            "multiplayer": "Yes",
+            "notable_features": "Battle royale mode with team-based strategy."
+        }
+    },
+    {
+        "game_id": "game_119",
+        "name": "Among Us",
+        "genre": ["Party", "Social Deduction"],
+        "rules": "Players are crewmates on a spaceship, but some are impostors who sabotage the mission.",
+        "how_to_play": "Complete tasks on the spaceship while trying to figure out who the impostors are.",
+        "accessible_via": ["PC", "Mobile", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "InnerSloth",
+            "release_date": "2018-06-15",
+            "multiplayer": "Yes",
+            "notable_features": "Social deduction gameplay where trust is key."
+        }
+    },
+    {
+        "game_id": "game_120",
+        "name": "Rocket League",
+        "genre": ["Sports", "Action"],
+        "rules": "Play soccer with rocket-powered cars, aiming to score goals in an arena.",
+        "how_to_play": "Control cars, hit the ball to score goals, and use rocket boosts for fast maneuvers.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Psyonix",
+            "release_date": "2015-07-07",
+            "multiplayer": "Yes",
+            "notable_features": "Unique blend of sports and action with customizable cars."
+        }
+    },
+    {
+        "game_id": "game_121",
+        "name": "Overwatch",
+        "genre": ["First-Person Shooter", "Team-Based"],
+        "rules": "Join teams of heroes with unique abilities and fight in objective-based game modes.",
+        "how_to_play": "Use your hero’s unique abilities to complete objectives or defeat the enemy team.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Blizzard Entertainment",
+            "release_date": "2016-05-24",
+            "multiplayer": "Yes",
+            "notable_features": "Hero-based team shooter with various game modes."
+        }
+    },
+    {
+        "game_id": "game_122",
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": ["Action RPG", "Open World"],
+        "rules": "Play as Geralt of Rivia, a monster hunter, as you explore a vast open world filled with quests.",
+        "how_to_play": "Complete main story missions, side quests, and hunt monsters while making impactful choices.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "CD Projekt Red",
+            "release_date": "2015-05-19",
+            "multiplayer": "No",
+            "notable_features": "Deep narrative choices with a massive open world."
+        }
+    },
+    {
+        "game_id": "game_123",
+        "name": "Stardew Valley",
+        "genre": ["Simulation", "RPG"],
+        "rules": "Farm, mine, and build relationships with people in a small town to create your dream life.",
+        "how_to_play": "Plant crops, raise animals, mine resources, and complete tasks for the town’s residents.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "ConcernedApe",
+            "release_date": "2016-02-26",
+            "multiplayer": "Yes",
+            "notable_features": "Relaxing farming and life-simulation with strong community elements."
+        }
+    },
+    {
+        "game_id": "game_124",
+        "name": "League of Legends",
+        "genre": ["MOBA"],
+        "rules": "Control a champion and work with your team to destroy the enemy's Nexus in a strategic battle.",
+        "how_to_play": "Farm minions, level up your champion, and participate in strategic team fights.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Riot Games",
+            "release_date": "2009-10-27",
+            "multiplayer": "Yes",
+            "notable_features": "Fast-paced, competitive team-based gameplay."
+        }
+    },
+    {
+        "game_id": "game_125",
+        "name": "Minecraft",
+        "genre": ["Sandbox", "Survival"],
+        "rules": "Mine blocks, craft items, and build structures in a pixelated world.",
+        "how_to_play": "Explore the world, mine resources, and craft tools to survive and build your creations.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Mojang Studios",
+            "release_date": "2011-11-18",
+            "multiplayer": "Yes",
+            "notable_features": "Endless creativity with procedurally generated worlds."
+        }
+    },
+    {
+        "game_id": "game_126",
+        "name": "Apex Legends",
+        "genre": ["Battle Royale", "First-Person Shooter"],
+        "rules": "Teams of players drop into a large arena and fight to be the last squad standing.",
+        "how_to_play": "Use different characters with unique abilities, loot for weapons, and fight other teams.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Respawn Entertainment",
+            "release_date": "2019-02-04",
+            "multiplayer": "Yes",
+            "notable_features": "Free-to-play battle royale with hero-based mechanics."
+        }
+    },
+    {
+        "game_id": "game_127",
+        "name": "Valorant",
+        "genre": ["First-Person Shooter", "Tactical"],
+        "rules": "Compete in 5v5 tactical matches with agents possessing unique abilities.",
+        "how_to_play": "Complete objectives such as planting or defusing bombs while utilizing agents' abilities.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Riot Games",
+            "release_date": "2020-06-02",
+            "multiplayer": "Yes",
+            "notable_features": "Precision shooting combined with tactical abilities."
+        }
+    },
+    {
+        "game_id": "game_128",
+        "name": "Destiny 2",
+        "genre": ["FPS", "RPG"],
+        "rules": "Take on the role of a Guardian and fight in a futuristic, sci-fi universe filled with powerful enemies.",
+        "how_to_play": "Engage in PvE missions, participate in PvP battles, and level up your Guardian's abilities.",
+        "accessible_via": ["PC", "PS4", "PS5", "Xbox One"],
+        "additional_information": {
+            "developer": "Bungie",
+            "release_date": "2017-09-06",
+            "multiplayer": "Yes",
+            "notable_features": "Futuristic shooter with MMO elements and co-op gameplay."
+        }
+    },
+    {
+        "game_id": "game_129",
+        "name": "Call of Duty: Modern Warfare",
+        "genre": ["First-Person Shooter"],
+        "rules": "Engage in tactical military combat across various multiplayer modes.",
+        "how_to_play": "Join teams and compete in fast-paced military combat, completing objectives in different modes.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Infinity Ward",
+            "release_date": "2019-10-25",
+            "multiplayer": "Yes",
+            "notable_features": "Realistic military combat with diverse multiplayer modes."
+        }
+    },
+    {
+        "game_id": "game_130",
+        "name": "Far Cry 5",
+        "genre": ["First-Person Shooter", "Open World"],
+        "rules": "Explore a vast open-world Montana while battling a doomsday cult and liberating the region.",
+        "how_to_play": "Complete story missions, take down cult leaders, and liberate the area through combat and strategy.",
+        "accessible_via": ["PC", "PS4", "Xbox One"],
+        "additional_information": {
+            "developer": "Ubisoft",
+            "release_date": "2018-03-27",
+            "multiplayer": "Yes",
+            "notable_features": "Open-world exploration with a deep narrative and action-packed gameplay."
+        }
+    },
+    {
+        "game_id": "game_131",
+        "name": "Dota 2",
+        "genre": ["MOBA"],
+        "rules": "Teams of five heroes battle in strategic combat with the goal of destroying the enemy’s Ancient.",
+        "how_to_play": "Choose a hero, level up, and coordinate with your team to destroy enemy structures.",
+        "accessible_via": ["PC"],
+        "additional_information": {
+            "developer": "Valve",
+            "release_date": "2013-07-09",
+            "multiplayer": "Yes",
+            "notable_features": "Strategic team battles with a deep pool of heroes."
+        }
+    },
+    {
+        "game_id": "game_132",
+        "name": "The Elder Scrolls V: Skyrim",
+        "genre": ["RPG", "Open World"],
+        "rules": "Explore the world of Skyrim, level up your character, and engage in quests and combat.",
+        "how_to_play": "Complete main and side quests, craft items, and develop your character’s abilities.",
+        "accessible_via": ["PC", "PS3", "PS4", "Xbox 360", "Xbox One"],
+        "additional_information": {
+            "developer": "Bethesda Game Studios",
+            "release_date": "2011-11-11",
+            "multiplayer": "No",
+            "notable_features": "Epic fantasy RPG with vast world-building and exploration."
+        }
+    },
+    {
+        "game_id": "game_133",
+        "name": "Animal Crossing: New Horizons",
+        "genre": ["Simulation", "Life-Simulation"],
+        "rules": "Build your dream island, interact with villagers, and partake in various activities like fishing, bug catching, and gardening.",
+        "how_to_play": "Design your island, complete tasks for villagers, and enjoy a peaceful, relaxing life.",
+        "accessible_via": ["Nintendo Switch"],
+        "additional_information": {
+            "developer": "Nintendo",
+            "release_date": "2020-03-20",
+            "multiplayer": "Yes",
+            "notable_features": "Relaxing, open-ended simulation with a focus on community-building."
+        }
+    },
+    {
+        "game_id": "game_134",
+        "name": "Dead by Daylight",
+        "genre": ["Survival Horror", "Multiplayer"],
+        "rules": "One player controls a killer while others must escape without being caught or killed.",
+        "how_to_play": "As a survivor, cooperate with others to escape the map while avoiding the killer. As a killer, hunt and capture the survivors.",
+        "accessible_via": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+        "additional_information": {
+            "developer": "Behaviour Interactive",
+            "release_date": "2016-06-14",
+            "multiplayer": "Yes",
+            "notable_features": "Horror-themed multiplayer with intense gameplay and killer survivor mechanics."
+        }
+    },
+    {
+        "game_id": "game_135",
+        "name": "Spelunky 2",
+        "genre": ["Platformer", "Rogue-like"],
+        "rules": "Explore dangerous caves filled with treasures, traps, and enemies while trying to survive.",
+        "how_to_play": "Jump, dodge, and fight enemies while navigating challenging levels filled with hazards.",
+        "accessible_via": ["PC", "PS4"],
+        "additional_information": {
+            "developer": "Mossmouth",
+            "release_date": "2020-09-15",
+            "multiplayer": "Yes",
+            "notable_features": "Challenging platforming with randomly generated levels and permadeath."
+        }
+    }
+]
+
+    
+    
+
+    
+        
+    
